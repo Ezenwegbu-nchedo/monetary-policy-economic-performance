@@ -56,8 +56,6 @@ The questionnaire-based correlations describe associations and respondent percep
 
 The perfect interest-rate correlation of 1.000 requires verification against the original data and analytical outputs.
 
-The abstract mentions regression analysis, while the methodology specifies Pearson correlation. This summary follows the methodology section.
-
 ## Repository Scope
 
 This repository currently provides a research summary. The underlying dataset, analysis scripts and statistical output files are not included.
